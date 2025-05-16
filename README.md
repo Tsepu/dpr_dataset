@@ -6,8 +6,8 @@
 **📁 Folder**: `PPE_DATASET_YOLOv8`  
 **📌 Description**: 산업현장에서 발생하는 안전사고와 관련된 영상을 학습하여 공사 등 산업 현장의 위험을 발견한다. 
 
-### B. Pig Price Prediction Data
-**📁 Folder**: `pig_data`  
+### B. Pig&Beef Price Prediction Data
+**📁 Folder**: `livestock_data`  
 **📌 Description**: 실제 돼지고기 가격 예측 데이터를 제공하여, 대략 평균 6개월 후 도살하는 돼지고기 가격을 예측해 본다.
 
 ### C. Transportation Management System (TMS) Dataset
