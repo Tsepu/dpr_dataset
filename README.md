@@ -3,7 +3,7 @@
 ## 📦 Dataset List
 
 ### A. PPE Dataset for Industrial Safety
-**📁 Folder**: `PPE_DATASET_YOLOv8`  
+**📁 Folder**: [PPE_DATASET_YOLOv8](./PPE_DATASET_YOLOv8)   
 **📌 Description**: 산업현장에서 발생하는 안전사고와 관련된 영상을 학습하여 공사 등 산업 현장의 위험을 발견한다. 
 
 ### B. Pig&Beef Price Prediction Data
